@@ -22,6 +22,7 @@ server:
 
   cors:
     origins:
+      - "https://pixivel.xiaohan-kaka.gay"
       - "http://localhost.tiangolo.com"
       - "https://localhost.tiangolo.com"
       - "http://localhost"
