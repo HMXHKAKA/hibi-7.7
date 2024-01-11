@@ -1,0 +1,80 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Kyomotoi",
+      "name": "Kyomotoi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37587870?v=4",
+      "profile": "http://kyomotoi.moe",
+      "contributions": [
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "shirokurakana",
+      "name": "城倉奏",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46120251?v=4",
+      "profile": "http://thdog.moe",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "SkipM4",
+      "name": "SkipM4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40311581?v=4",
+      "profile": "http://skipm4.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "leaf7th",
+      "name": "Nook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38352552?v=4",
+      "profile": "https://github.com/leaf7th",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jiangzhuochi",
+      "name": "Jocky Chiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50538375?v=4",
+      "profile": "https://github.com/jiangzhuochi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cleoold",
+      "name": "midori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13920903?v=4",
+      "profile": "https://github.com/cleoold",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Pretty9",
+      "name": "Pretty9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41198038?v=4",
+      "profile": "https://www.2yo.cc",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HibiAPI",
+  "projectOwner": "mixmoe",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "none"
+}

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "streetsidesoftware.code-spell-checker",
+        "redhat.vscode-yaml",
+        "seatonjiang.gitmoji-vscode"
+    ]
+}
